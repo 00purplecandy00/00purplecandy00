@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @00purplecandy00
-- 👀 I’m interested in ... computer science and digital nomad
+- 👋 Hi, I’m purplecandy
+- 👀 I’m interested in ... running and studying
 - 🌱 I’m currently learning ... computer programming
 - 💞️ I’m looking to collaborate on ... cool programmers and crews on other positions
 - 📫 How to reach me ... 00purplecandy00@gmail.com
